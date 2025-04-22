@@ -25,7 +25,10 @@ F1-Scor,
 Visualize results with a heatmap of the confusion matrix. 
 
 ## Final Results
-  Confusion Matrix (sample output) 
+  Confusion Matrix 
+  
+  ![Screenshot 2025-04-22 114502](https://github.com/user-attachments/assets/0afd6c17-8dad-4296-bf0d-ee59159dbe26)
+
 
 Predicted Bargain	Predicted Premium 
 Actual Bargain	26	4 
