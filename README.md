@@ -43,5 +43,15 @@ Bargain Hunter       0.90      0.87      0.88        30
 Premium Buyer        0.81      0.85      0.83        20
 
 Overall Accuracy: 86% 
+
+## Logic
+We want to predict customer behavior — whether someone is a Bargain Hunter or a Premium Buyer — based on features like purchase amount, brand loyalty, etc.
+To solve this, we used a Naive Bayes Classifier, which applies Bayes' Theorem with an assumption of independence among features.
+
+Prediction Logic Summary:
+Calculate the probability of the data for each class.
+Choose the class with the highest probability.
+Output the predicted class label.
+
 ## Conclusion 
 The Naive Bayes model performs well with an accuracy of 86%, showing strong ability in classifying customers into their respective categories. This approach is lightweight, fast, and effective for customer segmentation tasks in e-commerce or retail analytics.
